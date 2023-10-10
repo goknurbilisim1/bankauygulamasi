@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\bin\Debug\kasa-uygulamasi.exe.config
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\bin\Debug\kasa-uygulamasi.exe
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\bin\Debug\kasa-uygulamasi.pdb
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa_uygulamasi.Form1.resources
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa_uygulamasi.Properties.Resources.resources
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.exe
+C:\Users\User\source\repos\kasa-uygulamasi\kasa-uygulamasi\obj\Debug\kasa-uygulamasi.pdb
